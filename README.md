@@ -16,20 +16,13 @@
 
 ## 📌 Projetos em Destaque
 
-🔹 [**Controle de Despesas em Python + MySQL**](https://github.com/AndressasAntunes/controle-despesas)  
-Sistema simples para organização de despesas pessoais, utilizando banco de dados e CRUD.  
-
-🔹 [**Cadastro de Alunos em Python**](https://github.com/AndressasAntunes/cadastro-alunos)  
+🔹 [**Cadastro de Alunos em Python**](https://github.com/AndressasAntunes/Aula3-python-fundamentos.git)  
 Exercício acadêmico que explora listas, dicionários, funções e manipulação de arquivos.  
-
-🔹 [**Protótipo de Plataforma Digital (HTML/CSS/JS)**](https://github.com/AndressasAntunes/plataforma-digital)  
-Protótipo front-end responsivo inspirado em sistemas de gestão.  
 
 ---
 
 ## 📊 Estatísticas no GitHub
-
-![Andressa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndressasAntunes&show_icons=true&theme=radical)  
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndressasAntunes&layout=compact&theme=radical)
 
 ---

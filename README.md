@@ -1,24 +1,43 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andressa
-================================================================================================================================
+# 👩‍💻 Andressa dos Santos Antunes
 
-Estudante de Análise e Desenvolvimento de Sistemas
---------------------------------------------------
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** | 💼 Formação técnica em Administração  
+🔍 Em busca de oportunidades como **estagiária/trainee em Desenvolvimento Full Stack**  
+✨ Apaixonada por tecnologia, aprendizado contínuo e criação de soluções digitais.  
 
-Tenho 27 anos e atualmente sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal Catarinense (IFC). Sou formada como Técnica em Administração, o que me proporcionou uma base sólida em gestão, organização e trabalho em equipe — habilidades que hoje aplico na área de tecnologia.
+---
 
-Minha transição para o setor de TI foi motivada pelo interesse em raciocínio lógico, resolução de problemas e pela vontade de contribuir com soluções tecnológicas inovadoras. Sou uma pessoa proativa, curiosa e comprometida em integrar conhecimento técnico e visão estratégica para desenvolver sistemas eficientes e alinhados às necessidades dos usuários.
+## 🚀 Tecnologias & Ferramentas
 
-* 🌍  I'm based in Fraiburgo/SC
-* ✉️  You can contact me at [andressahes@gmail.com](mailto:andressahes@gmail.com)
+**Front-end:** HTML, CSS, JavaScript  
+**Back-end:** Python, Java (aprendendo), C, MySQL  
+**Ferramentas & Outros:** Git, GitHub, VS Code, Figma  
 
-### Skills
+---
 
+## 📌 Projetos em Destaque
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a>
-</p>
+🔹 [**Controle de Despesas em Python + MySQL**](https://github.com/AndressasAntunes/controle-despesas)  
+Sistema simples para organização de despesas pessoais, utilizando banco de dados e CRUD.  
 
+🔹 [**Cadastro de Alunos em Python**](https://github.com/AndressasAntunes/cadastro-alunos)  
+Exercício acadêmico que explora listas, dicionários, funções e manipulação de arquivos.  
 
-### Socials
+🔹 [**Protótipo de Plataforma Digital (HTML/CSS/JS)**](https://github.com/AndressasAntunes/plataforma-digital)  
+Protótipo front-end responsivo inspirado em sistemas de gestão.  
 
-<p align="left"> <a href="https://www.linkedin.com/in/andressa-dos-santos-antunes-76208b256" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+---
+
+## 📊 Estatísticas no GitHub
+
+![Andressa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndressasAntunes&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndressasAntunes&layout=compact&theme=radical)
+
+---
+
+## 📫 Contato
+
+📌 [LinkedIn](https://www.linkedin.com/in/andressasantunes6)  
+📌 **E-mail:** andressasantunesdev@gmail.com  
+
+---
+```

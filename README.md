@@ -37,7 +37,7 @@ Protótipo front-end responsivo inspirado em sistemas de gestão.
 ## 📫 Contato
 
 📌 [LinkedIn](https://www.linkedin.com/in/andressasantunes6)  
-📌 **E-mail:** andressasantunesdev@gmail.com  
+📌 **E-mail:** andressaantunesdev@gmail.com  
 
 ---
 ```
